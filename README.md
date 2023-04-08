@@ -3,8 +3,8 @@ Full stack application to Create and manage tasks
 #### Run The App Locally
 start mongodb server
 --->npm run install-dependencies  (to get all the node modules)
-then run npm start in Doit folder
-in localhost:3000 u  will get page to  register or login
+then run npm start
+In localhost:3000 u  will get page to  register or login
 ![image](https://user-images.githubusercontent.com/85238658/230715691-a4637399-b916-4f66-b59f-efa557a24e02.png)
 next 
 ![image](https://user-images.githubusercontent.com/85238658/230715619-79184985-0135-45e9-9cec-8cf7dba77337.png)
