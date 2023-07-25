@@ -11,7 +11,7 @@ import  './Landing.css'
 const Landing = () => {
   const { user } = useAppContext();
   return (
-    <React.Fragment>-+*
+    <React.Fragment>
       {user && <Navigate to='/' />}
       <Wrapper>
         <nav>
